@@ -6,7 +6,7 @@
   "repository": "sei40kr/hello-mocha",
   "scripts": {
     "start": "node index.js",
-    "test": "mocha"
+    "test": "mocha test"
   },
   "author": "Seong Yong-ju",
   "license": "UNLICENSED",
